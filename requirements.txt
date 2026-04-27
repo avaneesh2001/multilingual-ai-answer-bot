@@ -1,0 +1,12 @@
+langdetect
+transformers==4.41.2
+torch
+pillow
+langchain
+chromadb
+langchain_text_splitters 
+langchain-community 
+sentence-transformers
+duckduckgo_search
+ddgs
+streamlit
