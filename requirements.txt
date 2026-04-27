@@ -10,3 +10,4 @@ sentence-transformers
 duckduckgo_search
 ddgs
 streamlit
+wikipedia
